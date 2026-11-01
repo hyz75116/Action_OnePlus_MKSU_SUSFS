@@ -47,7 +47,7 @@ on:
           - oneplus_pad_2_pro
           - oneplus_pad_3
           - oneplus_15
-          - oneplus_ace6t
+          - oneplus_ace_6t
           - GitHub有bug可能不显示最后一项,误使用此项
       CPUD:
         type: choice
